@@ -1,3 +1,3 @@
-import SigmieSearch from './components/SigmieSearch';
+import ScoutSearch from './components/ScoutSearch';
 
-export { SigmieSearch };
+export { ScoutSearch };
